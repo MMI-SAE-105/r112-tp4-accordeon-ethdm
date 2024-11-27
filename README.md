@@ -1,6 +1,6 @@
-- nom :
-- prénom :
-- URL Netlify :
+- nom : Hennequin De Meyer
+- prénom : Ethan
+- URL Netlify : https://gentle-gnome-05359f.netlify.app/
 
 # Travail
 
@@ -12,7 +12,7 @@ N'oublier pas votre nom, prénom et l'URL de publication Netlify...
 
 Compléter le fichier [accordeon.css](/src/css/components/accordeon.css) et visualiser l'effet sur [index.html](/index.html) .
 
-Vous devez obtenir comme la premiére video sur Moodle.
+Vous devez obtenir comme la première video sur Moodle.
 
 # Manuellement sans JS
 

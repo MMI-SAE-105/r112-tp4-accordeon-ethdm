@@ -1,3 +1,24 @@
 /**
 * Accordeon
 */
+
+details [open] {
+    width : 300px
+}
+details {
+    position : relative;
+    width : 130px
+}
+summary{
+    position : absolute;
+    top : 0;
+    left : 0;
+}
+div{
+    padding-left: 130px;
+    width : 170px;
+}
+details {
+    position : relative;
+    width : 130px
+}
