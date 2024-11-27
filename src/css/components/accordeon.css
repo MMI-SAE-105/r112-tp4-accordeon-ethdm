@@ -1,9 +1,15 @@
 /**
 * Accordeon
 */
+.accordeon{
+    display: flex;
+}
 
 details [open] {
     width : 300px
+}
+details : hover{
+    transition : width 0.5s ease-in-out;
 }
 details {
     position : relative;
