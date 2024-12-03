@@ -20,13 +20,13 @@ details:hover{
     transition: width 0.5s ease-in-out;
 }
 
-details>summary{
+details> summary{
     position: absolute;
     top: 0;
     left: 0;
 }
 
-details>div{
+details> div{
     padding-left: 130px;
     width: 170px;
 }
